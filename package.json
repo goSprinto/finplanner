@@ -5,7 +5,15 @@
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "formik": "^1.5.1",
+    "rxjs": ">= 5.4.2 < 6.0.0-0",
+    "@grammarly/focal": "^0.7.1"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.3",
+    "@types/react-dom": "16.8.2",
+    "react-json-view": "^1.19.1"
   },
   "scripts": {
     "start": "react-scripts start",
