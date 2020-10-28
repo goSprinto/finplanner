@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
+    "react-scripts": "4.0.0",
     "formik": "^1.5.1",
     "rxjs": ">= 5.4.2 < 6.0.0-0",
     "@grammarly/focal": "^0.7.1"
