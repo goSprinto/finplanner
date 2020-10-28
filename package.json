@@ -6,7 +6,7 @@
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
-    "formik": "^1.5.1",
+    "formik": "^2.2.1",
     "rxjs": ">= 5.4.2 < 6.0.0-0",
     "@grammarly/focal": "^0.7.1"
   },
